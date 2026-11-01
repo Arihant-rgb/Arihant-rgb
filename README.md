@@ -56,7 +56,6 @@ const arihant = {
 ### 🧠 Concepts
 ![DSA](https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-4B0082?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-008080?style=for-the-badge)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
