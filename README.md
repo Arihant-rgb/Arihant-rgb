@@ -22,9 +22,6 @@ const arihant = {
   role: "Full-Stack Developer",
   education: "B.E. Computer Science & Engineering @ MSRIT, Bengaluru (2029)",
   location: "Bengaluru, India 🇮🇳",
-  currentlyLearning: ["Advanced Node.js", "Database design", "System design basics"],
-  currentlyBuilding: "REST APIs & full-stack web apps",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -74,15 +71,11 @@ const arihant = {
 <div align="center">
 
 ```mermaid
-flowchart LR
-    A[🎨 EJS / HTML / CSS / JS] -->|HTTP request| B[⚙️ Express.js]
-    B -->|REST API| C[🟢 Node.js logic]
-    C -->|Mongoose ODM| D[(🍃 MongoDB)]
-    C -->|Queries| E[(🛢️ SQL)]
-    D --> C
-    E --> C
-    C --> B
-    B -->|JSON / rendered view| A
+flowchart TD
+    A[Frontend: EJS, HTML, CSS, JS] -->|HTTP request| B[Express.js]
+    B --> C[Node.js logic]
+    C -->|Mongoose| D[(MongoDB)]
+    C -->|Queries| E[(SQL)]
 ```
 
 </div>
@@ -93,16 +86,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arihant-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arihant-rgb&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arihant-rgb&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Arihant-rgb&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
