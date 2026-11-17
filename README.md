@@ -65,22 +65,6 @@ const arihant = {
 
 ---
 
-## 🔄 How I Build
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[Frontend: EJS, HTML, CSS, JS] -->|HTTP request| B[Express.js]
-    B --> C[Node.js logic]
-    C -->|Mongoose| D[(MongoDB)]
-    C -->|Queries| E[(SQL)]
-```
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
